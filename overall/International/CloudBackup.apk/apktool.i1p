@@ -1,0 +1,1 @@
+replaceinfile ~%res%/../apktool.yml~ ~  ids:~ ~  ids:\n  - 18~;
